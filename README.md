@@ -1,0 +1,2 @@
+# dicegame
+little random game
