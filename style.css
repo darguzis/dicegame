@@ -21,7 +21,7 @@ h3 {
 .container {
   display: flex;
   justify-content: space-around;
-  margin: 8rem 15%;
+  margin: 7rem 15%;
   gap: 2rem;
 }
 
@@ -29,6 +29,15 @@ footer {
   text-align: center;
 }
 
+button {
+  border-radius: 5px;
+  border: 0.2px solid white;
+  background-color: blueviolet;
+  color: white;
+  padding: 7px;
+  margin: 0 42%;
+  margin-bottom: 2rem;
+}
 @media (max-width: 770px) {
   body {
     background-color: blueviolet;
